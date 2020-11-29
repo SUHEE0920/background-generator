@@ -1,2 +1,2 @@
 # Background-generator
-Background Generator with Deep Learning Tensorflow, using GAN, Attention Deconv
+Background Generator with Deep Learning Tensorflow, using GAN
